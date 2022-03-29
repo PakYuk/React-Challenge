@@ -21,3 +21,8 @@ button {
 .off {
 	color: lightgray;
 }
+
+.container {
+	display: flex;
+	justify-content: center;
+}
